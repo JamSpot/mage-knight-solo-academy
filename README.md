@@ -4,7 +4,7 @@ An independent fan-made learning resource for **Mage Knight Board Game**, focuse
 
 ## Website
 
-- Home: `index.html`
+- Home: `index.html`\n- Start here / first-game learning route: `start-here.html`
 - Solo play: `solo.html`
 - Two-player: `two-player.html`
 - Rules library: `rules.html`
@@ -13,7 +13,7 @@ An independent fan-made learning resource for **Mage Knight Board Game**, focuse
 
 ## Research scope
 
-Research the base game and the full collection requested by the owner, including The Lost Legion, Krang, Shades of Tezla, and Apocalypse Dragon materials where official documentation is available. Verify product and edition details before marking a guide complete.
+Research the Mage Knight Board Game and its three expansions: The Lost Legion, Krang, and Shades of Tezla. WizKids confirms these are included in Ultimate Edition. Keep products from the separate Mage Knight miniatures game out of scope unless explicitly requested.
 
 ## Principles
 
@@ -24,7 +24,7 @@ Research the base game and the full collection requested by the owner, including
 
 ## Publish with GitHub Pages
 
-In the repository, open **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/(root)`, then save. This is a static HTML/CSS/JS site and does not require a build step. If Pages is enabled, the expected URL is `https://jamspot.github.io/mage-knight-solo-academy/`.
+The repository includes a GitHub Actions Pages workflow at `.github/workflows/pages.yml`. In **Settings → Pages**, select **GitHub Actions** as the build and deployment source if it is not already selected. This is a static HTML/CSS/JS site and does not require a framework build step. Expected URL: `https://jamspot.github.io/mage-knight-solo-academy/`.
 
 ## Disclaimer
 
